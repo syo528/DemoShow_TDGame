@@ -1,0 +1,746 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\PR\\TDGame\\Source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\home_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\home_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\player_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\player_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\resources_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\resources_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\tower_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\tower_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\wave_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\wave_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\facing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\facing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\route.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\route.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\coin_prop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\coin_prop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\timer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\timer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\wave.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\wave.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\game_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\game_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\coin_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\coin_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\tower.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\tower.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\skeleton_enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\skeleton_enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\goblin_enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\goblin_enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\enemy_type.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\enemy_type.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\axeman_tower.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\axeman_tower.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\place_panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\place_panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\upgrade_panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\upgrade_panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\goblin_priest_enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\goblin_priest_enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\king_slim_enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\king_slim_enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\enemy_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\enemy_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\bullet_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\bullet_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\axe_bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\axe_bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\banner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\banner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\status_bar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\status_bar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\shell_bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\shell_bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\gunner_tower.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\gunner_tower.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\config_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\config_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\archer_tower.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\archer_tower.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\arrow_bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\arrow_bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\tower_type.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\tower_type.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\bullet_type.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\bullet_type.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\slim_enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\slim_enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|F:\\PR\\TDGame\\Source\\TdGame\\vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6822F321-904C-452E-AA57-14D5288527E1}|TdGame\\TdGame.vcxproj|solutionrelative:TdGame\\vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\PR\\\u8BFE\u7A0B\u8D44\u6599\u5305\\Source\\Demo\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 274,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "game_manager.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\game_manager.h",
+              "RelativeDocumentMoniker": "TdGame\\game_manager.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\game_manager.h",
+              "RelativeToolTip": "TdGame\\game_manager.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAMEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "facing.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\facing.h",
+              "RelativeDocumentMoniker": "TdGame\\facing.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\facing.h",
+              "RelativeToolTip": "TdGame\\facing.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "tile.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\tile.h",
+              "RelativeDocumentMoniker": "TdGame\\tile.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\tile.h",
+              "RelativeToolTip": "TdGame\\tile.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "wave.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\wave.h",
+              "RelativeDocumentMoniker": "TdGame\\wave.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\wave.h",
+              "RelativeToolTip": "TdGame\\wave.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "timer.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\timer.h",
+              "RelativeDocumentMoniker": "TdGame\\timer.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\timer.h",
+              "RelativeToolTip": "TdGame\\timer.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "map.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\map.h",
+              "RelativeDocumentMoniker": "TdGame\\map.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\map.h",
+              "RelativeToolTip": "TdGame\\map.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "route.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\route.h",
+              "RelativeDocumentMoniker": "TdGame\\route.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\route.h",
+              "RelativeToolTip": "TdGame\\route.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "coin_prop.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\coin_prop.h",
+              "RelativeDocumentMoniker": "TdGame\\coin_prop.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\coin_prop.h",
+              "RelativeToolTip": "TdGame\\coin_prop.h",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "animation.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\animation.h",
+              "RelativeDocumentMoniker": "TdGame\\animation.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\animation.h",
+              "RelativeToolTip": "TdGame\\animation.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAMwDoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "wave_manager.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\wave_manager.h",
+              "RelativeDocumentMoniker": "TdGame\\wave_manager.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\wave_manager.h",
+              "RelativeToolTip": "TdGame\\wave_manager.h",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tower_manager.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\tower_manager.h",
+              "RelativeDocumentMoniker": "TdGame\\tower_manager.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\tower_manager.h",
+              "RelativeToolTip": "TdGame\\tower_manager.h",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAMwGsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "resources_manager.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\resources_manager.h",
+              "RelativeDocumentMoniker": "TdGame\\resources_manager.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\resources_manager.h",
+              "RelativeToolTip": "TdGame\\resources_manager.h",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAMwNYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "player_manager.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\player_manager.h",
+              "RelativeDocumentMoniker": "TdGame\\player_manager.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\player_manager.h",
+              "RelativeToolTip": "TdGame\\player_manager.h",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAANAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "manager.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\manager.h",
+              "RelativeDocumentMoniker": "TdGame\\manager.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\manager.h",
+              "RelativeToolTip": "TdGame\\manager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "home_manager.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\home_manager.h",
+              "RelativeDocumentMoniker": "TdGame\\home_manager.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\home_manager.h",
+              "RelativeToolTip": "TdGame\\home_manager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "coin_manager.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\coin_manager.h",
+              "RelativeDocumentMoniker": "TdGame\\coin_manager.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\coin_manager.h",
+              "RelativeToolTip": "TdGame\\coin_manager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "tower.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\tower.h",
+              "RelativeDocumentMoniker": "TdGame\\tower.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\tower.h",
+              "RelativeToolTip": "TdGame\\tower.h",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAACkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "skeleton_enemy.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\skeleton_enemy.h",
+              "RelativeDocumentMoniker": "TdGame\\skeleton_enemy.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\skeleton_enemy.h",
+              "RelativeToolTip": "TdGame\\skeleton_enemy.h",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "enemy_type.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\enemy_type.h",
+              "RelativeDocumentMoniker": "TdGame\\enemy_type.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\enemy_type.h",
+              "RelativeToolTip": "TdGame\\enemy_type.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "axeman_tower.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\axeman_tower.h",
+              "RelativeDocumentMoniker": "TdGame\\axeman_tower.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\axeman_tower.h",
+              "RelativeToolTip": "TdGame\\axeman_tower.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "main.cpp",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\main.cpp",
+              "RelativeDocumentMoniker": "TdGame\\main.cpp",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\main.cpp",
+              "RelativeToolTip": "TdGame\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T16:07:59.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "goblin_priest_enemy.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\goblin_priest_enemy.h",
+              "RelativeDocumentMoniker": "TdGame\\goblin_priest_enemy.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\goblin_priest_enemy.h",
+              "RelativeToolTip": "TdGame\\goblin_priest_enemy.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "king_slim_enemy.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\king_slim_enemy.h",
+              "RelativeDocumentMoniker": "TdGame\\king_slim_enemy.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\king_slim_enemy.h",
+              "RelativeToolTip": "TdGame\\king_slim_enemy.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "goblin_enemy.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\goblin_enemy.h",
+              "RelativeDocumentMoniker": "TdGame\\goblin_enemy.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\goblin_enemy.h",
+              "RelativeToolTip": "TdGame\\goblin_enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "panel.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\panel.h",
+              "RelativeDocumentMoniker": "TdGame\\panel.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\panel.h",
+              "RelativeToolTip": "TdGame\\panel.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "bullet_manager.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\bullet_manager.h",
+              "RelativeDocumentMoniker": "TdGame\\bullet_manager.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\bullet_manager.h",
+              "RelativeToolTip": "TdGame\\bullet_manager.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "enemy_manager.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\enemy_manager.h",
+              "RelativeDocumentMoniker": "TdGame\\enemy_manager.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\enemy_manager.h",
+              "RelativeToolTip": "TdGame\\enemy_manager.h",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAJ8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "upgrade_panel.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\upgrade_panel.h",
+              "RelativeDocumentMoniker": "TdGame\\upgrade_panel.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\upgrade_panel.h",
+              "RelativeToolTip": "TdGame\\upgrade_panel.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "place_panel.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\place_panel.h",
+              "RelativeDocumentMoniker": "TdGame\\place_panel.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\place_panel.h",
+              "RelativeToolTip": "TdGame\\place_panel.h",
+              "ViewState": "AgIAADwAAAAAAAAAAAAcwFgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "enemy.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\enemy.h",
+              "RelativeDocumentMoniker": "TdGame\\enemy.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\enemy.h",
+              "RelativeToolTip": "TdGame\\enemy.h",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAMwJUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "axe_bullet.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\axe_bullet.h",
+              "RelativeDocumentMoniker": "TdGame\\axe_bullet.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\axe_bullet.h",
+              "RelativeToolTip": "TdGame\\axe_bullet.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "bullet.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\bullet.h",
+              "RelativeDocumentMoniker": "TdGame\\bullet.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\bullet.h",
+              "RelativeToolTip": "TdGame\\bullet.h",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "banner.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\banner.h",
+              "RelativeDocumentMoniker": "TdGame\\banner.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\banner.h",
+              "RelativeToolTip": "TdGame\\banner.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "status_bar.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\status_bar.h",
+              "RelativeDocumentMoniker": "TdGame\\status_bar.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\status_bar.h",
+              "RelativeToolTip": "TdGame\\status_bar.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "shell_bullet.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\shell_bullet.h",
+              "RelativeDocumentMoniker": "TdGame\\shell_bullet.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\shell_bullet.h",
+              "RelativeToolTip": "TdGame\\shell_bullet.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "gunner_tower.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\gunner_tower.h",
+              "RelativeDocumentMoniker": "TdGame\\gunner_tower.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\gunner_tower.h",
+              "RelativeToolTip": "TdGame\\gunner_tower.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "archer_tower.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\archer_tower.h",
+              "RelativeDocumentMoniker": "TdGame\\archer_tower.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\archer_tower.h",
+              "RelativeToolTip": "TdGame\\archer_tower.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "config_manager.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\config_manager.h",
+              "RelativeDocumentMoniker": "TdGame\\config_manager.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\config_manager.h",
+              "RelativeToolTip": "TdGame\\config_manager.h",
+              "ViewState": "AQIAADoAAAAAAAAAAAAMwFEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "arrow_bullet.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\arrow_bullet.h",
+              "RelativeDocumentMoniker": "TdGame\\arrow_bullet.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\arrow_bullet.h",
+              "RelativeToolTip": "TdGame\\arrow_bullet.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "bullet_type.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\bullet_type.h",
+              "RelativeDocumentMoniker": "TdGame\\bullet_type.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\bullet_type.h",
+              "RelativeToolTip": "TdGame\\bullet_type.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "tower_type.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\tower_type.h",
+              "RelativeDocumentMoniker": "TdGame\\tower_type.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\tower_type.h",
+              "RelativeToolTip": "TdGame\\tower_type.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "slim_enemy.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\slim_enemy.h",
+              "RelativeDocumentMoniker": "TdGame\\slim_enemy.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\slim_enemy.h",
+              "RelativeToolTip": "TdGame\\slim_enemy.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "vector2.h",
+              "DocumentMoniker": "F:\\PR\\TDGame\\Source\\TdGame\\vector2.h",
+              "RelativeDocumentMoniker": "TdGame\\vector2.h",
+              "ToolTip": "F:\\PR\\TDGame\\Source\\TdGame\\vector2.h",
+              "RelativeToolTip": "TdGame\\vector2.h",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:07:59.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "main.cpp",
+              "DocumentMoniker": "F:\\PR\\\u8BFE\u7A0B\u8D44\u6599\u5305\\Source\\Demo\\main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\\u8BFE\u7A0B\u8D44\u6599\u5305\\Source\\Demo\\main.cpp",
+              "ToolTip": "F:\\PR\\\u8BFE\u7A0B\u8D44\u6599\u5305\\Source\\Demo\\main.cpp",
+              "RelativeToolTip": "..\\..\\\u8BFE\u7A0B\u8D44\u6599\u5305\\Source\\Demo\\main.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T16:07:59.868Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
